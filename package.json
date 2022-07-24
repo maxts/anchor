@@ -1,6 +1,6 @@
 {
   "name": "anchor",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "High-level validation library for Node.js (used in Waterline)",
   "homepage": "https://sailsjs.com",
   "keywords": [
@@ -34,10 +34,10 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "validator": "5.7.0"
+    "validator": "13.7.0"
   },
   "devDependencies": {
-    "eslint": "4.11.0",
-    "mocha": "3.0.2"
+    "eslint": "^8.20.0",
+    "mocha": "^10.0.0"
   }
 }
